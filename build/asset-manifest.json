@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/carta-200-dias/static/css/main.3bb4d757.css",
+    "main.js": "/carta-200-dias/static/js/main.81391e97.js",
+    "static/js/453.dba243c0.chunk.js": "/carta-200-dias/static/js/453.dba243c0.chunk.js",
+    "static/media/tulipan1.png": "/carta-200-dias/static/media/tulipan1.5a4d5d46fd37db09d1f8.png",
+    "index.html": "/carta-200-dias/index.html",
+    "main.3bb4d757.css.map": "/carta-200-dias/static/css/main.3bb4d757.css.map",
+    "main.81391e97.js.map": "/carta-200-dias/static/js/main.81391e97.js.map",
+    "453.dba243c0.chunk.js.map": "/carta-200-dias/static/js/453.dba243c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bb4d757.css",
+    "static/js/main.81391e97.js"
+  ]
+}
